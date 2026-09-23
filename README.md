@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Krish Tewatia
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=500&duration=3000&color=0A66C2&center=true&vCenter=true&width=620&height=60&lines=Data+Scientist;Tech+Enthusiast;AI+Learner;Python+Developer;Data+Analyst;Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=500&duration=3000&color=0A66C2&center=true&vCenter=true&width=620&height=60&lines=Data+Scientist;Tech+Enthusiast;AI+Explorer;Problem+Solver" alt="Typing SVG"/>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 - 🏫 **Student at Noida Institute of Engineering and Technology (NIET)**
 - 📚 **Branch:** Computer Science (Data Science)
-- 🗓️ **Year:** Second Year
+- 🗓️ **Year:** Third Year
 - 🚀 Passionate about Data Science, AI & Web Development
 
 ---
@@ -61,7 +61,7 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishtewatia&layout=compact&theme=radical&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishtewatia&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -69,11 +69,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishtewatia&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishtewatia&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=krishtewatia&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=krishtewatia&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
